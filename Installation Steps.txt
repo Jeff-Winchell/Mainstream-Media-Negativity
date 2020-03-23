@@ -1,0 +1,7 @@
+Copy all files from this repository to some subdirectory on your computer
+
+Install SQL Server 2019 for Windows (The Developer's Edition is free if you use it personally, not commercially). There is a LINUX edition. I don't know LINUX so you will need to get help from others where it differs from the Windows version.
+
+SQL Install Instructions (see SQL_Server_2019_Install.txt)
+
+Once you have SQL Server installed and configured, you can run the DDL.sql file within SQL Server to create the empty database, optimizations and custom programs stored in the database. Change the name of the database in the top dozen or so lines if you want the database name to be different.
