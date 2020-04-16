@@ -5,6 +5,6 @@ The code relies heavily on the features of SQL Server 2019 on Windows and its in
 
 Your first step is to read and follow the file Installation Steps.txt
 
-The lone jpg here is the first significant results of this project. It came from the lone Excel file here, which came from the sql query MSNBC_Dem_Speaking_Time(Words).sql which queried the database of transcripts generated from get_transcripts.ipynb. This image counts the words (as a proxy for time) of each candidate as aired on MSNBC (whether as a videos of their talking or during an interview on MSNBC). The words come from converting the webpages on http://msnbc.com/transcripts to words (including some cleanup of typos, especially the names of who is talking) into data stored in a relational database. 
+The two jpgs here are the first significant results of this project. They came from the lone Excel file here, which came from two SQL queries MSNBC_Dem_Speaking_Time(Words).sql and MSNBC_Dem_Speaking_Time(Words)_Weekly.sql which queried the database of transcripts generated from get_transcripts.ipynb. These images count the words (as a proxy for time) of each candidate as aired on MSNBC (whether as a videos of their talking or during an interview on MSNBC). The words come from converting the webpages on http://msnbc.com/transcripts to words (including some cleanup of typos, especially the names of who is talking) into data stored in a relational database. 
 
 Much more is coming.
