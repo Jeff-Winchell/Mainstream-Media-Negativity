@@ -1,5 +1,5 @@
 # Mainstream Media Negativity
- Analysis of transciptis of shows on the major networks: cable, broadcast network and radio
+ Analysis of transcripts of shows on the major networks: cable, broadcast network and radio. Summary covered in Bernie Blackout (documentary).
  
 The code relies heavily on the features of SQL Server 2019 on Windows and its integration with python. Porting this to SQL Server on LINUX will be mostly harmless, but I can't help with LINUX issues.
 
